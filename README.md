@@ -18,7 +18,7 @@ O projeto utiliza as seguintes linguagens e ferramentas:
 
 ## Requisitos Mínimos
 * Python (versão 3.6 ou superior)
-* pip install notebook
+
 
 ## Recomendaçoes
 
